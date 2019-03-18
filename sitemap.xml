@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rkdehddnr.com/posts/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8/</loc>
+    <lastmod>2019-01-11T18:47:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rkdehddnr.com/posts/fsts-from-spa-to-ssr/</loc>
+    <lastmod>2018-10-25T10:09:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rkdehddnr.com/posts/fjtr-from-jquery-to-react/</loc>
+    <lastmod>2018-10-05T11:03:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rkdehddnr.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rkdehddnr.com/posts/</loc>
+    <lastmod>2019-01-11T18:47:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rkdehddnr.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rkdehddnr.com/</loc>
+    <lastmod>2019-01-11T18:47:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
